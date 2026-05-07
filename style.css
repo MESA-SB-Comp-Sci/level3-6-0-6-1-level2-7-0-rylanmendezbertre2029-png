@@ -4,4 +4,34 @@
     margin: 0;
 }
 
-/* write all your rules below */
+h1 {
+    
+    box-sizing: border-box;
+
+    background-color: pink;
+
+    border-color: red;
+    
+    border: 100vw;
+    
+    
+
+}
+
+
+#box-1{
+
+
+}
+
+
+
+#box-2{
+
+}
+
+
+.text-spacing{
+
+
+}
