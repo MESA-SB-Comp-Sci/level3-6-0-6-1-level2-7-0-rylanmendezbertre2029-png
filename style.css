@@ -4,34 +4,33 @@
     margin: 0;
 }
 
-h1 {
-    
-    box-sizing: border-box;
-
+h1{
     background-color: pink;
-
-    border-color: red;
-    
-    border: 100vw;
-    
-    
+    border: 2px solid red;
+    padding:10px;
 
 }
 
 
 #box-1{
-
-
+   background-color: aqua;
+   padding: 10vw 10vh;
+   margin:2%;
 }
-
 
 
 #box-2{
-
+   background-color: yellow;
+   border:10px solid pink ;
+   padding:3vw 3vh ;
+   margin: 3%;
 }
-
-
-.text-spacing{
-
-
+.blue-text{
+   color:blue;
+}
+.green-text{
+   color:green;
+}
+.purple-text{
+   color: purple;
 }
